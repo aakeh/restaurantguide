@@ -16,12 +16,6 @@ body {
   display: flex;
   place-items: center;
 }
-styledimg {
-  background-image: url(/Users/aakehauge/workshops/restaurantguide/src/assets/ab67616d0000b273d82e1f40e672e27bf18d9562.jpeg);
-  background-repeat: no-repeat;
-  width: 640px;
-  height: 640px;
-  }
 
 /* Some basic styling for elements*/
 a {
